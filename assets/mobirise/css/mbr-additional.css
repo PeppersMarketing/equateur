@@ -1588,6 +1588,8 @@ a {
   font-weight: bold !important;
 }
 .cid-st2eElkdSs {
+  padding-top: 17rem;
+  padding-bottom: 7rem;
   background-image: url("../../../assets/images/fondheader1-1366x711.jpg");
 }
 .cid-st2eElkdSs .mbr-text,
@@ -1723,7 +1725,7 @@ a {
 .cid-syqCUmay4F {
   padding-top: 105px;
   padding-bottom: 105px;
-  background-color: #76c9d6;
+  background-color: #ffffff;
 }
 .cid-syqCUmay4F .container {
   max-width: 1500px;
@@ -1767,6 +1769,16 @@ a {
   .cid-syqCUmay4F .title-col {
     padding: 2rem 1rem;
   }
+}
+.cid-szPcl4nRIk {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #efefef;
+}
+.cid-szPcl4nRIk .mbr-text,
+.cid-szPcl4nRIk .ornament {
+  text-align: left;
+  color: #006b9e;
 }
 .cid-syqrzNR3jt {
   padding-top: 90px;
@@ -1826,6 +1838,9 @@ a {
   .cid-syqrzNR3jt .nav-item {
     display: table-row !important;
   }
+}
+.cid-syqrzNR3jt .title-content {
+  color: #006b9e;
 }
 .cid-syqAlOQaBe {
   overflow-x: hidden !important;
@@ -2027,9 +2042,90 @@ a {
     padding: 1rem!important;
   }
 }
+.cid-szEiKuqI1D {
+  overflow-x: hidden !important;
+}
+.cid-szEiKuqI1D,
+.cid-szEiKuqI1D .scroll-wrapper {
+  padding-top: 225px;
+  padding-bottom: 225px;
+}
+.cid-szEiKuqI1D .mbr-section-title {
+  color: #ffffff;
+}
+.cid-szEiKuqI1D .mbr-section-title span {
+  color: #ffffff;
+}
+.cid-szEiKuqI1D .mbr-text {
+  color: #efefef;
+  letter-spacing: 5px;
+  font-weight: 100;
+}
+.cid-szEiKuqI1D .scroll-wrapper {
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-position: 50% 50%;
+  background-size: cover;
+  position: absolute;
+  background-repeat: repeat;
+  z-index: 0;
+  -webkit-animation-duration: 30s !important;
+  animation-duration: 30s;
+  background-image: url("../../../assets/images/business-people-analyzing-statistics-financial-concept-2000x1030.jpg");
+}
+.cid-szEiKuqI1D .scroll-wrapper.second {
+  left: calc(100% - 1px);
+}
+.cid-szEiKuqI1D .mbr-overlay {
+  z-index: 1;
+}
+.cid-szEiKuqI1D .block-content {
+  z-index: 2;
+}
+@keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+@-webkit-keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+@-moz-keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+@-o-keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
 .cid-swIdtMzLlq {
-  padding-top: 20rem;
-  padding-bottom: 20rem;
+  padding-top: 11rem;
+  padding-bottom: 4rem;
   background-image: url("../../../assets/images/bleue-1409x688.png");
 }
 .cid-swIdtMzLlq .mbr-overlay {
@@ -2086,8 +2182,8 @@ a {
 }
 @media (max-width: 500px) {
   .cid-swIdtMzLlq {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 11px;
+    padding-bottom: 4px;
   }
   .cid-swIdtMzLlq .divImageAnimee {
     display: none;
@@ -2225,7 +2321,7 @@ a {
   transform: rotate(90deg) translatex(210px) translatey(210px);
   position: absolute;
   align-items: left;
-  font-size: 2.6em;
+  font-size: 2.4em;
   color: white;
 }
 .cid-swIdtMzLlq .divCards button:hover {
@@ -2240,25 +2336,126 @@ a {
   outline: none !important;
   border: none !important;
 }
-.cid-syqQiMmK8R {
-  padding-top: 75px;
-  padding-bottom: 75px;
+.cid-szPeB6HzuA {
+  padding-top: 7rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-syqQiMmK8R H1 {
-  color: #006b9e;
-}
-.cid-syqQiMmK8R .mbr-text,
-.cid-syqQiMmK8R .mbr-section-btn {
-  color: #777777;
-}
-.cid-syqQiMmK8R img {
+.cid-szPeB6HzuA img {
   width: 100%;
-  border-radius: 10px;
+  max-width: 140px;
+  margin: auto;
 }
-@media (min-width: 1200px) {
-  .cid-syqQiMmK8R .col-lg-6 {
-    padding: 0 2rem;
+.cid-szPeB6HzuA .line {
+  height: 1px;
+  border: none;
+  line-height: 1;
+  background-image: linear-gradient(45deg, transparent, #e5e5e5, transparent);
+}
+.cid-szPeB6HzuA .mbr-section-title {
+  margin-bottom: 26px;
+  color: #006392;
+}
+.cid-szPeB6HzuA .mbr-section-subtitle {
+  margin-bottom: 16px;
+  color: #ffffff;
+  letter-spacing: 1.6px;
+  line-height: 1;
+  font-weight: 600;
+}
+.cid-szPeB6HzuA .mbr-section-head {
+  margin-bottom: 50px;
+}
+.cid-szPeB6HzuA .card_box {
+  margin-top: 30px;
+  transition: all 0.4s;
+  filter: grayscale(100%);
+  opacity: 0.5;
+}
+.cid-szPeB6HzuA .card_box:hover {
+  transform: scale(1.1);
+  filter: grayscale(0%);
+  opacity: 1;
+}
+.cid-szKnqEDHfD {
+  overflow-x: hidden !important;
+}
+.cid-szKnqEDHfD,
+.cid-szKnqEDHfD .scroll-wrapper {
+  padding-top: 420px;
+  padding-bottom: 420px;
+}
+.cid-szKnqEDHfD .mbr-section-title {
+  color: #ffffff;
+}
+.cid-szKnqEDHfD .mbr-section-title span {
+  color: #ffffff;
+}
+.cid-szKnqEDHfD .mbr-text {
+  color: #efefef;
+  letter-spacing: 5px;
+  font-weight: 100;
+}
+.cid-szKnqEDHfD .scroll-wrapper {
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-position: 50% 50%;
+  background-size: cover;
+  position: absolute;
+  background-repeat: repeat;
+  z-index: 0;
+  -webkit-animation-duration: 30s !important;
+  animation-duration: 30s;
+  background-image: url("../../../assets/images/montagechainerhumaine-2000x1175.jpg");
+}
+.cid-szKnqEDHfD .scroll-wrapper.second {
+  left: calc(100% - 1px);
+}
+.cid-szKnqEDHfD .mbr-overlay {
+  z-index: 1;
+}
+.cid-szKnqEDHfD .block-content {
+  z-index: 2;
+}
+@keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+@-webkit-keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+@-moz-keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+@-o-keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
   }
 }
 .cid-szhobOnJPF .navbar {
